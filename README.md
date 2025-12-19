@@ -49,7 +49,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
-![edm6 2_page-0001](https://github.com/user-attachments/assets/9ead98fd-01c6-470c-bac4-403c462c36d7)
+![6 2DRAW_page-0001](https://github.com/user-attachments/assets/93a4cd7a-8d69-49e9-9bbf-98674a80e303)
 
 
 ## RESULT:
